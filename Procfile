@@ -1,0 +1,1 @@
+web: gunicorn submitblog.wsgi --log-file -
